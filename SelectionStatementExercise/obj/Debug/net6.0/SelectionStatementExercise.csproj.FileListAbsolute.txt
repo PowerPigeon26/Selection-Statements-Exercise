@@ -1,0 +1,14 @@
+E:\Repos\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.exe
+E:\Repos\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.deps.json
+E:\Repos\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.runtimeconfig.json
+E:\Repos\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.dll
+E:\Repos\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.pdb
+E:\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.AssemblyInfoInputs.cache
+E:\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.AssemblyInfo.cs
+E:\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.csproj.CoreCompileInputs.cache
+E:\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.dll
+E:\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\refint\SelectionStatementExercise.dll
+E:\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.pdb
+E:\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.genruntimeconfig.cache
+E:\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\ref\SelectionStatementExercise.dll
